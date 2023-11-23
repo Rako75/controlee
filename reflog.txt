@@ -1,0 +1,18 @@
+82c49d2 (HEAD -> main, origin/main) HEAD@{0}: commit (merge): ajout fichier logtxt
+e667461 HEAD@{1}: commit: ajout fichier log
+8d7e6d9 (meteo) HEAD@{2}: checkout: moving from tobedeleted to main
+1079a91 HEAD@{3}: commit: Ajout d'azerty
+8d7e6d9 (meteo) HEAD@{4}: checkout: moving from main to tobedeleted
+8d7e6d9 (meteo) HEAD@{5}: reset: moving to HEAD^
+ef0aa2d HEAD@{6}: cherry-pick: README dans la branche hobby
+8d7e6d9 (meteo) HEAD@{7}: checkout: moving from hobby to main
+d7ad77a (hobby) HEAD@{8}: commit: README dans la branche hobby
+90b80b1 HEAD@{9}: commit: Modification hobby
+8d7e6d9 (meteo) HEAD@{10}: checkout: moving from main to hobby
+8d7e6d9 (meteo) HEAD@{11}: merge meteo: Fast-forward
+23bb321 HEAD@{12}: checkout: moving from meteo to main
+8d7e6d9 (meteo) HEAD@{13}: commit: README dans la branche meteo
+0f20296 HEAD@{14}: commit: Modification meteo
+23bb321 HEAD@{15}: checkout: moving from main to meteo
+23bb321 HEAD@{16}: commit: Hello World
+a2c53a8 HEAD@{17}: commit (initial): creation du fichier README
